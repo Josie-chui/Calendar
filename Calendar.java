@@ -8,7 +8,7 @@ public class Calendar {
                 {null, "exam 1", null, "mechanic", null, null, "soccer"},
                 {"volunteer", "off work", null, "birthday", null, "concert", null},
                 {null, "exam 2", null, null, "doctor", null, "soccer"},
-                {"visit family", null, null, null, null, null, null}};
+                {"visit family", "pizza day", "pita day", null, null, null, null}};
 
         int numberOfEventsPerWeek = 0;
 
